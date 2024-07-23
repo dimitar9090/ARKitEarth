@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		D173EA0C2C5064ED00DD6923 /* EarthNode.swift in Sources */ = {isa = PBXBuildFile; fileRef = D173EA0B2C5064ED00DD6923 /* EarthNode.swift */; };
 		D1D7557B2C4F14F60040AB13 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D1D7557A2C4F14F60040AB13 /* AppDelegate.swift */; };
 		D1D7557D2C4F14F60040AB13 /* art.scnassets in Resources */ = {isa = PBXBuildFile; fileRef = D1D7557C2C4F14F60040AB13 /* art.scnassets */; };
 		D1D7557F2C4F14F60040AB13 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D1D7557E2C4F14F60040AB13 /* ViewController.swift */; };
@@ -15,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		D173EA0B2C5064ED00DD6923 /* EarthNode.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = EarthNode.swift; path = ../../3DEarthBeyondTheBasics/ARKitEarth/EarthNode.swift; sourceTree = "<group>"; };
 		D1D755772C4F14F60040AB13 /* ARKitEarth.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ARKitEarth.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D1D7557A2C4F14F60040AB13 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		D1D7557C2C4F14F60040AB13 /* art.scnassets */ = {isa = PBXFileReference; lastKnownFileType = wrapper.scnassets; path = art.scnassets; sourceTree = "<group>"; };
@@ -56,6 +58,7 @@
 				D1D7557A2C4F14F60040AB13 /* AppDelegate.swift */,
 				D1D7557C2C4F14F60040AB13 /* art.scnassets */,
 				D1D7557E2C4F14F60040AB13 /* ViewController.swift */,
+				D173EA0B2C5064ED00DD6923 /* EarthNode.swift */,
 				D1D755802C4F14F70040AB13 /* Main.storyboard */,
 				D1D755832C4F14F90040AB13 /* Assets.xcassets */,
 			);
@@ -134,6 +137,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				D1D7557F2C4F14F60040AB13 /* ViewController.swift in Sources */,
+				D173EA0C2C5064ED00DD6923 /* EarthNode.swift in Sources */,
 				D1D7557B2C4F14F60040AB13 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
